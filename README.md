@@ -26,7 +26,7 @@
 
 <table>
 <tr>
-  <!-- COLUMNA 1 -->
+  <!-- -->
   <td style="border-radius:16px; background:#0d1117; padding:16px;">
     <a href="https://github.com/Maalfer/dockerlabs">
       <img
@@ -46,7 +46,7 @@
     <div>
       <b style="color:#c9d1d9; font-size:13px;">Tecnologías</b><br>
       <img
-        src="https://skillicons.dev/icons?i=python,flask,js,sqlite&theme=dark"
+        src="https://skillicons.dev/icons?i=python,flask,js,sqlite,html,css&theme=dark"
         style="margin-top:8px;"
       >
     </div>
