@@ -8,8 +8,6 @@
 
 <hr style="border:0;height:1px;background:linear-gradient(90deg,#0e1b2e00,#f0db4f,#0e1b2e00);margin:16px 0;"/>
 
-<hr style="border:0;height:1px;background:linear-gradient(90deg,#0e1b2e00,#f0db4f,#0e1b2e00);margin:16px 0;"/>
-
 ### 🛠️ Tecnologías y herramientas
 
 <div align="center">
