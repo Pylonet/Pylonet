@@ -52,9 +52,12 @@
        >
      </div>
     <div style="margin-top:12px;">
-       <strong style="color:white; font-size:18px;">Dockerlabs</strong><br>
+       <strong style="color:white; font-size:18px;">Contribuciones</strong><br>
        <span style="color:#8b949e; font-size:14px;">
-         Plataforma CTF · Open Source
+         6 vulnerabilidades reportadas en la plataforma
+       </span>
+       <span style="color:#8b949e; font-size:14px;">
+         <a href="https://github.com/Maalfer/dockerlabs/pulls?q=is%3Apr+author%3APylonet+">Arreglo de fallos de código</a>
        </span>
      </div>       
    </td>
