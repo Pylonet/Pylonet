@@ -24,6 +24,11 @@
 
 ### 🚀 Proyectos destacados
 
+<a href="https://github.com/Maalfer/cogny" target="_blank">
+  <img src="https://raw.githubusercontent.com/Maalfer/cogny/main/assets/preview.png"
+       alt="Cogny Project"
+       style="max-width:100%; border-radius:12px; box-shadow:0 10px 25px rgba(0,0,0,0.25);">
+</a>
 
 
 ### 📈 Estadísticas
