@@ -24,26 +24,25 @@
 
 ### 🚀 Proyectos destacados
 
-<div style="
-  width: 420px;
-  background: #0d1117;
-  border-radius: 16px;
-  overflow: hidden;
-  box-shadow: 0 10px 30px rgba(0,0,0,0.4);
-  font-family: Arial, sans-serif;
-">
-  <a href="https://github.com/Maalfer/cogny" target="_blank" style="text-decoration:none;">
-    <img src="/images/dockerlabs.png"
-         alt="Cogny"
-         style="width:100%; display:block;">
-    <div style="padding:16px;">
-      <h3 style="margin:0; color:#fff;">Cogny</h3>
-      <p style="margin:8px 0 0; color:#8b949e; font-size:14px;">
-        Open Source Web App · Security Research
-      </p>
-    </div>
-  </a>
-</div>
+<table>
+  <tr>
+    <td style="border-radius:16px; background:#0d1117;">
+      <a href="https://github.com/Maalfer/cogny">
+        <img src="https://raw.githubusercontent.com/Pylonet/Pylonet/images/dockerlabs.png"
+             alt="Cogny"
+             width="420"
+             style="border-radius:16px;">
+      </a>
+      <div style="padding:12px 8px;">
+        <strong style="color:white; font-size:18px;">Cogny</strong><br>
+        <span style="color:#8b949e; font-size:14px;">
+          Open Source Web App · Security Research
+        </span>
+      </div>
+    </td>
+  </tr>
+</table>
+
 
 
 
