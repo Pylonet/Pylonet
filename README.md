@@ -46,7 +46,7 @@
     <div>
       <b style="color:#c9d1d9; font-size:13px;">Tecnologías</b><br>
       <img
-        src="https://skillicons.dev/icons?i=python,flask,js,sqlite,html,css&theme=dark"
+        src="https://skillicons.dev/icons?i=python,flask,js,sqlite,html,css,docker&theme=dark"
         style="margin-top:8px;"
       >
     </div>
