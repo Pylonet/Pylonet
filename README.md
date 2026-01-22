@@ -26,91 +26,94 @@
 
 <table>
   <tr>
+    <!-- COLUMNA 1 -->
     <td style="border-radius:16px; background:#0d1117; padding:16px;">
-      
-   <a href="https://github.com/Maalfer/dockerlabs">
-       <img
-         src="https://raw.githubusercontent.com/Pylonet/Pylonet/main/images/dockerlabs.png"
-         alt="Dockerlabs"
-         width="420"
-         style="border-radius:14px;"
-       >
-     </a>      
-     <div style="margin-top:12px;">
-       <strong style="color:white; font-size:18px;">Dockerlabs</strong><br>
-       <span style="color:#8b949e; font-size:14px;">
-         Plataforma CTF · Open Source · Docker
-       </span>
-     </div>      
-     <hr style="border:0; height:1px; background:#30363d; margin:14px 0;">      
-     <div>
-       <b style="color:#c9d1d9; font-size:13px;">Tecnologías</b><br>
-       <img
-         src="https://skillicons.dev/icons?i=python,flask,js,sqlite&theme=dark"
-         alt="Tecnologías"
-         style="margin-top:8px;"
-       >
-     </div>
-<div style="margin-top:12px;">
-  <strong style="color:white; font-size:18px;">Contribuciones</strong>
 
-  <ul style="margin:8px 0 0; padding-left:18px; color:#8b949e; font-size:14px;">
-    <li>6 vulnerabilidades reportadas en la plataforma</li>
-    <li>
-      <a href="https://github.com/Maalfer/dockerlabs/pulls?q=is%3Apr+author%3APylonet+">
-        Corrección de fallos de código (PRs)
+      <a href="https://github.com/Maalfer/dockerlabs">
+        <img
+          src="https://raw.githubusercontent.com/Pylonet/Pylonet/main/images/dockerlabs.png"
+          alt="Dockerlabs"
+          width="420"
+          style="border-radius:14px;"
+        >
       </a>
-    </li>
-  </ul>
-</div>
 
-   </td>
+      <div style="margin-top:12px;">
+        <strong style="color:white; font-size:18px;">Dockerlabs</strong><br>
+        <span style="color:#8b949e; font-size:14px;">
+          Plataforma CTF · Open Source · Docker
+        </span>
+      </div>
+
+      <hr style="border:0; height:1px; background:#30363d; margin:14px 0;">
+
+      <div>
+        <b style="color:#c9d1d9; font-size:13px;">Tecnologías</b><br>
+        <img
+          src="https://skillicons.dev/icons?i=python,flask,js,sqlite&theme=dark"
+          style="margin-top:8px;"
+        >
+      </div>
+
+      <div style="margin-top:12px;">
+        <strong style="color:white; font-size:18px;">Contribuciones</strong>
+        <ul style="margin:8px 0 0; padding-left:18px; color:#8b949e; font-size:14px;">
+          <li>6 vulnerabilidades reportadas en la plataforma</li>
+          <li>
+            <a href="https://github.com/Maalfer/dockerlabs/pulls?q=is%3Apr+author%3APylonet+">
+              Corrección de fallos de código (PRs)
+            </a>
+          </li>
+        </ul>
+      </div>
+
+    </td>
+
+    <!-- COLUMNA 2 -->
+    <td style="border-radius:16px; background:#0d1117; padding:16px;">
+
+      <a href="https://github.com/Maalfer/dockerlabs">
+        <img
+          src="https://raw.githubusercontent.com/Pylonet/Pylonet/main/images/dockerlabs.png"
+          alt="Dockerlabs"
+          width="420"
+          style="border-radius:14px;"
+        >
+      </a>
+
+      <div style="margin-top:12px;">
+        <strong style="color:white; font-size:18px;">Dockerlabs</strong><br>
+        <span style="color:#8b949e; font-size:14px;">
+          Plataforma CTF · Open Source · Docker
+        </span>
+      </div>
+
+      <hr style="border:0; height:1px; background:#30363d; margin:14px 0;">
+
+      <div>
+        <b style="color:#c9d1d9; font-size:13px;">Tecnologías</b><br>
+        <img
+          src="https://skillicons.dev/icons?i=python,flask,js,sqlite&theme=dark"
+          style="margin-top:8px;"
+        >
+      </div>
+
+      <div style="margin-top:12px;">
+        <strong style="color:white; font-size:18px;">Contribuciones</strong>
+        <ul style="margin:8px 0 0; padding-left:18px; color:#8b949e; font-size:14px;">
+          <li>6 vulnerabilidades reportadas en la plataforma</li>
+          <li>
+            <a href="https://github.com/Maalfer/dockerlabs/pulls?q=is%3Apr+author%3APylonet+">
+              Corrección de fallos de código (PRs)
+            </a>
+          </li>
+        </ul>
+      </div>
+
+    </td>
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td style="border-radius:16px; background:#0d1117; padding:16px;">
-      
-   <a href="https://github.com/Maalfer/dockerlabs">
-       <img
-         src="https://raw.githubusercontent.com/Pylonet/Pylonet/main/images/dockerlabs.png"
-         alt="Dockerlabs"
-         width="420"
-         style="border-radius:14px;"
-       >
-     </a>      
-     <div style="margin-top:12px;">
-       <strong style="color:white; font-size:18px;">Dockerlabs</strong><br>
-       <span style="color:#8b949e; font-size:14px;">
-         Plataforma CTF · Open Source · Docker
-       </span>
-     </div>      
-     <hr style="border:0; height:1px; background:#30363d; margin:14px 0;">      
-     <div>
-       <b style="color:#c9d1d9; font-size:13px;">Tecnologías</b><br>
-       <img
-         src="https://skillicons.dev/icons?i=python,flask,js,sqlite&theme=dark"
-         alt="Tecnologías"
-         style="margin-top:8px;"
-       >
-     </div>
-<div style="margin-top:12px;">
-  <strong style="color:white; font-size:18px;">Contribuciones</strong>
-
-  <ul style="margin:8px 0 0; padding-left:18px; color:#8b949e; font-size:14px;">
-    <li>6 vulnerabilidades reportadas en la plataforma</li>
-    <li>
-      <a href="https://github.com/Maalfer/dockerlabs/pulls?q=is%3Apr+author%3APylonet+">
-        Corrección de fallos de código (PRs)
-      </a>
-    </li>
-  </ul>
-</div>
-
-   </td>
-  </tr>
-</table>
 
 ### 🏆 Logros
 
