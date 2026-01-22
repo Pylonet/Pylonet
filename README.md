@@ -13,9 +13,10 @@
 <div align="center">
 
   <h4>⚙️ Tecnologías y Frameworks</h4>
-  <img src="https://skillicons.dev/icons?i=js,html,css,php,python,flask,nginx,apache,bash,sql">
+  <img src="https://skillicons.dev/icons?i=js,html,css,php,python,flask,nginx,bash,mysql,git,docker">
   
   <h4>🧰 Herramientas</h4>
+  <img src="https://skillicons.dev/icons?i=vscode,neovim,linux,kali,github">
 </div>
 
 <hr style="border:0;height:1px;background:linear-gradient(90deg,#0e1b2e00,#f0db4f,#0e1b2e00);margin:16px 0;"/>
