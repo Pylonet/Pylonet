@@ -28,8 +28,8 @@
   <tr>
     <td style="border-radius:16px; background:#0d1117;">
       <a href="https://github.com/Maalfer/cogny">
-        <img src="https://github.com/Pylonet/Pylonet/images/dockerlabs.png"
-             alt="Cogny"
+        <img src="https://github.com/Pylonet/Pylonet/blob/main/images/dockerlabs.png"
+             alt="Dockerlabs"
              width="420"
              style="border-radius:16px;">
       </a>
