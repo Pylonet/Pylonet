@@ -51,15 +51,19 @@
          style="margin-top:8px;"
        >
      </div>
-    <div style="margin-top:12px;">
-       <strong style="color:white; font-size:18px;">Contribuciones</strong><br>
-       <span style="color:#8b949e; font-size:14px;">
-         6 vulnerabilidades reportadas en la plataforma
-       </span>
-       <span style="color:#8b949e; font-size:14px;">
-         <a href="https://github.com/Maalfer/dockerlabs/pulls?q=is%3Apr+author%3APylonet+">Arreglo de fallos de código</a>
-       </span>
-     </div>       
+<div style="margin-top:12px;">
+  <strong style="color:white; font-size:18px;">Contribuciones</strong>
+
+  <ul style="margin:8px 0 0; padding-left:18px; color:#8b949e; font-size:14px;">
+    <li>6 vulnerabilidades reportadas en la plataforma</li>
+    <li>
+      <a href="https://github.com/Maalfer/dockerlabs/pulls?q=is%3Apr+author%3APylonet+">
+        Arreglo de fallos de código
+      </a>
+    </li>
+  </ul>
+</div>
+     
    </td>
   </tr>
 </table>
