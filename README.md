@@ -24,21 +24,26 @@
 
 ### 🚀 Proyectos destacados
 
+<br>
+
 <p align="center">
   <a href="https://github.com/Maalfer/cogny">
     <img
       src="https://github.com/Pylonet/Pylonet/blob/main/images/dockerlabs.png"
       alt="Cogny"
-      width="700"
-      style="border-radius:18px;"
+      width="720"
+      style="border-radius:20px;"
     />
   </a>
 </p>
 
 <p align="center">
-  <strong style="font-size:20px;">Cogny</strong><br>
+  <b>Cogny</b><br>
   <sub>Open Source Web App · Security Research</sub>
 </p>
+
+<hr style="border:0; height:1px; background:#30363d;">
+
 
 
 
