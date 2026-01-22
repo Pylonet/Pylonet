@@ -94,10 +94,9 @@
   <strong style="color:white; font-size:18px;">Contribuciones</strong>
 
   <ul style="margin:8px 0 0; padding-left:18px; color:#8b949e; font-size:14px;">
-    <li>6 vulnerabilidades reportadas en la plataforma</li>
     <li>
-      <a href="https://github.com/Maalfer/dockerlabs/pulls?q=is%3Apr+author%3APylonet+">
-        Corrección de fallos de código (PRs)
+      <a href="https://github.com/GTFOBins/GTFOBins.github.io/pull/484">
+        Nueva escalada de privilegios con el binario procmail (PR)
       </a>
     </li>
   </ul>
