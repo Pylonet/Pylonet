@@ -13,7 +13,7 @@
 <div align="center">
 
   <h4>⚙️ Tecnologías y Frameworks</h4>
-  <img src="https://skillicons.dev/icons?i=js,html,css,php,python,flask,nginx,apache2,bash">
+  <img src="https://skillicons.dev/icons?i=js,html,css,php,python,flask,nginx,apache,bash">
   
   <h4>🧰 Herramientas</h4>
 </div>
