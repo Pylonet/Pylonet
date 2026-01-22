@@ -19,6 +19,7 @@
   <img src="https://skillicons.dev/icons?i=vscode,neovim,linux,kali,github">
   <img src="/images/vmware.png" height="48">
   <img src="/images/wsl.png" height="48">
+  <img src="/images/wburpsl.png" height="48">
 
 </div>
 
