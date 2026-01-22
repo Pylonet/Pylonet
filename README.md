@@ -18,8 +18,7 @@
   <h4>🧰 Herramientas</h4>
   <img src="https://skillicons.dev/icons?i=vscode,neovim,linux,kali,github">
   <img src="/images/vmware.png" height="48">
-
-
+  <img src="/images/wsl.png" height="48">
 
 </div>
 
@@ -106,8 +105,6 @@
    </td>
   </tr>
 </table>
-
-
 
 ### 📈 Estadísticas
 <div align="center">
