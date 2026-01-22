@@ -39,7 +39,7 @@
      <div style="margin-top:12px;">
        <strong style="color:white; font-size:18px;">Dockerlabs</strong><br>
        <span style="color:#8b949e; font-size:14px;">
-         Plataforma CTF · Open Source
+         Plataforma CTF · Open Source · Docker
        </span>
      </div>      
      <hr style="border:0; height:1px; background:#30363d; margin:14px 0;">      
