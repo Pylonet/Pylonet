@@ -44,7 +44,7 @@
      </div>      
      <hr style="border:0; height:1px; background:#30363d; margin:14px 0;">      
      <div>
-       <span style="color:#c9d1d9; font-size:13px; font-witdh:bold;">Tecnologías</span><br>
+       <span style="color:#c9d1d9; font-size:13px; font-weight:bold;">Tecnologías</span><br>
        <img
          src="https://skillicons.dev/icons?i=vscode,neovim,linux,kali,github&theme=dark"
          alt="Tecnologías"
