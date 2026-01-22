@@ -68,7 +68,44 @@
   </tr>
 </table>
 
+### 🏆 Logros
 
+<table>
+  <tr>
+    <td style="border-radius:16px; background:#0d1117; padding:16px;">
+      
+   <a href="https://gtfobins.org/gtfobins/procmail/">
+       <img
+         src="https://raw.githubusercontent.com/Pylonet/Pylonet/main/images/gtf.png"
+         alt="Dockerlabs"
+         width="420"
+         style="border-radius:14px;"
+       >
+     </a>      
+     <div style="margin-top:12px;">
+       <strong style="color:white; font-size:18px;">GTFOBins Procmail</strong><br>
+       <span style="color:#8b949e; font-size:14px;">
+         Privesc
+       </span>
+     </div>
+    <hr style="border:0; height:1px; background:#30363d; margin:14px 0;">      
+  <div>
+
+  <strong style="color:white; font-size:18px;">Contribuciones</strong>
+
+  <ul style="margin:8px 0 0; padding-left:18px; color:#8b949e; font-size:14px;">
+    <li>6 vulnerabilidades reportadas en la plataforma</li>
+    <li>
+      <a href="https://github.com/Maalfer/dockerlabs/pulls?q=is%3Apr+author%3APylonet+">
+        Corrección de fallos de código (PRs)
+      </a>
+    </li>
+  </ul>
+  </div>      
+     
+   </td>
+  </tr>
+</table>
 
 
 
