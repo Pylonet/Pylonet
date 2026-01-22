@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">
   <h1>Pylon</h1>
   <h3>🌐 Pentesting Web · 💻 Desarrollador Web · 💻 Creador de CTFs</h3>
 
@@ -9,3 +8,4 @@
     <img src="https://img.shields.io/github/stars/Maalfer?label=Estrellas&style=flat-square&color=f0db4f" alt="Estrellas"/>
   </p>
 </div>
+<hr style="border:0;height:1px;background:linear-gradient(90deg,#0e1b2e00,#f0db4f,#0e1b2e00);margin:16px 0;"/>
