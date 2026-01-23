@@ -61,6 +61,7 @@
             Corrección de fallos de código (PRs)
           </a>
         </li>
+        <li>Moderador de la plataforma</li>
       </ul>
     </div>
   </td>
