@@ -113,3 +113,12 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pylonet&theme=gruvbox&hide_border=true&area=true&custom_title=Evoluci%C3%B3n%20de%20commits" alt="Gráfico de actividad de commits"/>
 </div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pylonet&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</div>
+
+### 📱 Contacta conmigo
+<a href="https://x.com/Pylonetwork" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+</a>
