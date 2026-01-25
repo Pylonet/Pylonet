@@ -122,3 +122,7 @@
 <a href="https://x.com/Pylonetwork" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
 </a>
+
+<a href="https://discord.com/users/1120750281190281327" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord"  />
+</a>
