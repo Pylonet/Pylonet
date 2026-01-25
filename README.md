@@ -112,6 +112,4 @@
 ### 📈 Estadísticas
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pylonet&theme=tokyo-night&hide_border=true&area=true&custom_title=Evoluci%C3%B3n%20de%20commits" alt="Gráfico de actividad de commits"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pylonet&layout=donut-vertical&theme=tokyonight">
 </div>
