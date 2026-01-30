@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Pylon</h1>
   <h3>🌐 Pentesting Web · 💻 Desarrollador Web · 💻 Creador de CTFs</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=Pylonet&theme=gruvbox&show_icons=true&hide_border=true&count_private=true">
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=Pylonet&theme=gruvbox&show_icons=true&hide_border=true&count_private=true">-->
 
 
 </div>
