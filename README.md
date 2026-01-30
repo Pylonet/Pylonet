@@ -58,7 +58,7 @@
         <li>6 vulnerabilidades reportadas en la plataforma</li>
         <li>
           <a href="https://github.com/Maalfer/dockerlabs/pulls?q=is%3Apr+author%3APylonet+">
-            Corrección de fallos de código (PRs)
+            Desarrollo de la plataforma y corrección de fallos de código (PRs)
           </a>
         </li>
         <li>Moderador de la plataforma</li>
