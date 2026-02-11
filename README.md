@@ -61,7 +61,7 @@
             Desarrollo de la plataforma y corrección de fallos de código (PRs)
           </a>
         </li>
-        <li>Moderador de la plataforma</li>
+        <li>Administrador de la plataforma</li>
       </ul>
     </div>
   </td>
