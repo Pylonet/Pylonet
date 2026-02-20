@@ -57,7 +57,7 @@
       <ul style="margin:8px 0 0; padding-left:18px; color:#8b949e; font-size:14px;">
         <li>6 vulnerabilidades reportadas en la plataforma</li>
         <li>
-          <a href="https://github.com/Maalfer/dockerlabs/pulls?q=is%3Apr+author%3APylonet+">
+          <a href="https://github.com/Maalfer/dockerlabs/pulls?q=is%3Apr+author%3A0xR0t">
             Desarrollo de la plataforma y corrección de fallos de código (PRs)
           </a>
         </li>
